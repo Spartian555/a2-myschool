@@ -1,0 +1,68 @@
+body {
+
+	background-color: #00ffff;
+}
+h2 {
+	color: #993399;
+		
+}
+
+h1 {
+	color: #993399;
+	
+}
+
+hr {
+	color: #cc0000;
+}
+
+div {
+	;
+
+}
+
+#banner {
+
+	background: linear-gradient(lime, #ffcc66);
+	margin-left: 25px;
+}
+
+#bannerPic{
+	float: right;
+	margin: 15px;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #3F51B5;
+	padding: 3px;
+	box-shadow: 12px 12px 40px #0000FF;
+
+	
+}
+
+
+	
+
+.floatclear {
+	clear: both;
+}
+
+#slideshow {
+	border-style: ridge;
+	border-width: 25px;
+	border-color: #6600ff;
+	padding: 10px;
+	box-shadow: 10px 20px 5px #000000;
+	
+}
+#aboutme{
+	background-color: #ff66ff;
+	color: #FFE7E7;
+	font-size: 21.5px;
+	padding: 12px 16px;
+	border-radius: 12px
+}
+
+
+#aboutme:hover {
+    box-shadow: 5px 10px 10px #ff0000;
+}
